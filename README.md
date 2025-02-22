@@ -32,16 +32,6 @@ The analysis involves the following steps:
    - **Simple Linear Regression (OLS)**: To evaluate the relationship between a dependent variable and one independent variable.
    - **Multiple Linear Regression (OLS)**: To evaluate relationships involving multiple independent variables.
 
-## Repository Structure
-```
-├── data/                    # Contains the raw and cleaned datasets
-├── scripts/                 # R scripts for various analyses
-├── memos/                   # Analytical memos detailing insights
-├── figures/                 # Visualizations generated during analysis
-├── results/                 # Output files (e.g., regression summaries)
-└── README.md                # Project overview and instructions
-```
-
 ## Requirements
 - **R**
 - Required R libraries:
